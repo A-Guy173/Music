@@ -1,2 +1,2 @@
 # Music
-.wav files
+.mp3 files
