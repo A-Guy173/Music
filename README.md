@@ -1,2 +1,2 @@
 # Music
-.mp3 files
+.mp3 and MIDI files
